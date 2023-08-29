@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gQPh1N/EUjCvwg2JM+QzpPHCQUuwO+EAj5mfCycR8+Cr/0vNGQyE/LUIkymwQI0yQmnVOBy88ONf1vwgoPnfQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Home\\source\\repos\\PROJEKTPOPRAWA\\PROJEKTPOPRAWA.UnitTest\\PROJEKTPOPRAWA.UnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Projekt PROJEKTPOPRAWA nie jest zgodny z elementem netstandard2.0 (.NETStandard,Version=v2.0). Projekt PROJEKTPOPRAWA obsługuje: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "PROJEKTPOPRAWA",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
